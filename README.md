@@ -1,2 +1,2 @@
-# sorting-analysis
-Comparative Analysis of Sorting Algorithms
+# A Comparative Analysis of Sorting Algorithms
+
